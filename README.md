@@ -1,2 +1,0 @@
-# LearningNode
-Created with CodeSandbox
