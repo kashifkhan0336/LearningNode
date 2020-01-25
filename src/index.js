@@ -8,7 +8,7 @@ const postsRoute = require("../routes/posts.js");
 app.use("/posts", postsRoute);
 
 app.get("/", (req, res) => {
-  res.send("This is Home Page");
+  res.send("This is Home Page!");
 });
 
 //Database
